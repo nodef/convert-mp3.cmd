@@ -26,3 +26,5 @@ Convert M4A files to MP3 with FFMPEG.
 - [remove last characters string batch](https://stackoverflow.com/a/29504225/1413259)
 - [Example of delayed expansion in batch file](https://stackoverflow.com/a/29976127/1413259)
 - [How can I echo a newline in a batch file?](https://stackoverflow.com/a/132804/1413259)
+
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/convert-mp3.cmd)
